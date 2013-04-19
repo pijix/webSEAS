@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="">
+<meta name="Keywords" content="">
+<title>VELA - Descubre un mar de libertad </title>
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link href="../css/estilos.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+
+<body>
+
+<div id="top">
+	<img src="../img/banner_2_top.jpg" width="960" height="150" />
+</div>
+
+<div id="principal">
+  <div id="nav">
+        <ul>
+		<!-- TemplateBeginEditable name="menu" -->
+            <li><a href="../index.html">Inicio</a></li>
+            <li><a href="../empresa.html">Empresa</a></li>
+            <li><a href="../servicios.html">Servicios</a></li>
+            <li><a href="../noticias.html">Notícias</a></li>                
+            <li><a href="../promociones.html">Promociones</a></li>                
+            <li><a href="../contacto.html">Contacto</a></li>                                
+        <!-- TemplateEndEditable -->
+        </ul>	
+    </div>
+
+<div id="contenido">
+
+	<h1><!-- TemplateBeginEditable name="titulo-contenido" -->Contenido<!-- TemplateEndEditable --></h1>
+	<h2><!-- TemplateBeginEditable name="subtitulo-contenido" --> Subtítulo de Contenido<!-- TemplateEndEditable --></h2>
+	<!-- TemplateBeginEditable name="contenido" -->
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a arcu in risus vehicula sollicitudin a eu leo. Nullam sit amet turpis at odio bibendum dignissim. Curabitur aliquet lorem et ipsum pellentesque eu mollis sem placerat. Aenean ac sagittis nisl. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc luctus sapien in ipsum gravida posuere. Fusce eget ipsum a dolor consequat porttitor eget id mi. Nullam semper, nunc et gravida auctor, orci metus malesuada mi, condimentum euismod libero nisl eget quam.	</p>
+	<!-- TemplateEndEditable -->
+</div>
+
+</div>
+
+<div id="footer">
+	<p><span class="azul">&copy;2013 VELA</span> | Paseo Marítimo 145-147 · 08547 Barcelona · tel. 93 414 24 03 · fax. 93 414 24 04 
+    <a href="mailto:info@vela.es"><img src="../img/mail.png" width="18" height="18" class="primera" /></a>
+    <a href="http://www.vela.es/noticies.xml" target="_blank"><img src="../img/ico-rss.png" width="18" height="18" /></a>
+    <a href="http://www.facebook.com/" target="_blank"><img src="../img/ico-facebook.png" width="18" height="18" /></a>
+    <a href="http://www.twitter.com/" target="_blank"><img src="../img/ico-twitter.png" width="18" height="18" /></a>
+    </p>
+</div>
+
+</body>
+</html>
