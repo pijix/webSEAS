@@ -69,6 +69,10 @@ body {
 	color: #34495E;
 }
 
+strong { font-weight:900; }
+
+em {font-style:italic;}
+
 .centrado { text-align:center }
 
 .borde {
@@ -93,7 +97,7 @@ h2 {
 }
 
 table { text-align:center; }
-td {padding:2px;}
+td {padding:8px;}
 #top {
 	text-align:center;
 	background-color: #2980B9;
