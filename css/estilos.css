@@ -198,3 +198,9 @@ textarea {
 	color:#fff;
 	border:0;
 }
+#mapa {float:left;}
+#datos-contacto {
+	float:left;
+	padding-left:40px;
+	 }
+#formulario-contacto {clear:both }
