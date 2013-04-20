@@ -11,8 +11,7 @@
 
 <body>
 
-<div id="top">
-	<img src="../img/banner_2_top.jpg" width="960" height="150" />
+<div id="top"> <a href="../index.html"><img src="../img/banner_2_top.jpg" alt="Vela" width="960" height="150" /></a>
 </div>
 
 <div id="principal">
