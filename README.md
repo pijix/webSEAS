@@ -1,4 +1,4 @@
 webSEAS
 =======
 
-Trabajo Obligatorio - Multimedia - Copyright (C) 2014 Jordi Pijuan Galceran (@pijix)
+Trabajo Obligatorio - Multimedia - Copyright (C) Jordi Pijuan Galceran (@pijix)
